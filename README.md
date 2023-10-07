@@ -74,3 +74,9 @@ https://pv.vlogdownloader.com/
 
 # algorithm
 https://www.geeksforgeeks.org/a-search-algorithm/
+
+# swagger
+https://swagger.io/resources/articles/documenting-apis-with-swagger/
+
+# windows
+https://www.osradar.com/how-to-enable-multiple-remote-desktops-on-windows-server-2019/

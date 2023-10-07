@@ -27,6 +27,10 @@ https://www.springboottutorial.com/spring-boot-projects-with-code-examples
 
 https://spring.io/projects/spring-boot#samples
 
+https://spring.academy/guides
+
+[写出优雅漂亮代码的50个小技巧](https://www.toutiao.com/article/7228478738193777207/?app=news_article&group_id=7228478738193777207&req_id=202307180931315406B62FFAC0E135F6E2&share_token=8c2a3930-41e0-4def-bccd-e2877b172ea2&source=m_redirect&timestamp=1689643892&tt_from=weixin&use_new_style=1&utm_source=pocket_saves&wid=1696655926987&wxshare_count=1)
+
 # linux
 https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
 
@@ -90,6 +94,9 @@ https://github.com/mifi/lossless-cut/releases
 
 # dual windows
 https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/
+
+# schedule
+https://www.developgoodhabits.com/study-schedule/
 
 https://www.diskpart.com/articles/move-system-reserved-partition-4348.html
 

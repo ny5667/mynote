@@ -31,10 +31,18 @@ https://spring.academy/guides
 
 [写出优雅漂亮代码的50个小技巧](https://www.toutiao.com/article/7228478738193777207/?app=news_article&group_id=7228478738193777207&req_id=202307180931315406B62FFAC0E135F6E2&share_token=8c2a3930-41e0-4def-bccd-e2877b172ea2&source=m_redirect&timestamp=1689643892&tt_from=weixin&use_new_style=1&utm_source=pocket_saves&wid=1696655926987&wxshare_count=1)
 
+https://spring.io/guides/gs/rest-service/
+
+https://www.digitalocean.com/community/tutorials/java-socket-programming-server-client
+
 # linux
 https://linuxize.com/post/how-to-setup-passwordless-ssh-login/
 
 https://docs.docker.com/compose/install/standalone/
+
+https://linuxconfig.org/how-to-select-the-fastest-apt-mirror-on-ubuntu-linux
+
+https://launchpad.net/ubuntu/+archivemirrors?utm_source=pocket_saves
 
 # js
 https://www.freecodecamp.org/news/javascript-coding-interview-practice/

@@ -80,3 +80,14 @@ https://swagger.io/resources/articles/documenting-apis-with-swagger/
 
 # windows
 https://www.osradar.com/how-to-enable-multiple-remote-desktops-on-windows-server-2019/
+
+# video cut
+https://www.bilibili.com/video/BV1AV4y1m7UF/?spm_id_from=333.999.0.0&vd_source=6763fad190c937baf811dce46ac76d54
+https://github.com/mifi/lossless-cut/releases
+
+# dual windows
+https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/
+https://www.diskpart.com/articles/move-system-reserved-partition-4348.html
+
+# 眼镜
+https://zhuanlan.zhihu.com/p/368082050

@@ -95,6 +95,8 @@ https://www.osradar.com/how-to-enable-multiple-remote-desktops-on-windows-server
 
 https://www.osradar.com/how-to-enable-multiple-remote-desktops-on-windows-server-2019/
 
+https://tryrdp.com/blog/credssp-encryption-oracle-remediation-fixed/
+
 # video cut
 https://www.bilibili.com/video/BV1AV4y1m7UF/?spm_id_from=333.999.0.0&vd_source=6763fad190c937baf811dce46ac76d54
 

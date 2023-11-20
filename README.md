@@ -110,6 +110,10 @@ https://www.developgoodhabits.com/study-schedule/
 
 https://www.diskpart.com/articles/move-system-reserved-partition-4348.html
 
+# 屏幕休息软件
+
+https://workrave.org/
+
 # 眼镜
 https://zhuanlan.zhihu.com/p/368082050
 

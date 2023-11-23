@@ -119,3 +119,9 @@ https://zhuanlan.zhihu.com/p/368082050
 
 # db
 mysql 工具 SQLyog
+
+# tesla
+
+充电
+
+https://www.youtube.com/watch?v=1w_jY8MNvgM

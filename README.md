@@ -102,6 +102,10 @@ https://www.bilibili.com/video/BV1AV4y1m7UF/?spm_id_from=333.999.0.0&vd_source=6
 
 https://github.com/mifi/lossless-cut/releases
 
+# sutitle
+
+https://www.downloadyoutubesubtitles.com/
+
 # dual windows
 https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/
 

@@ -125,3 +125,5 @@ mysql 工具 SQLyog
 充电
 
 https://www.youtube.com/watch?v=1w_jY8MNvgM
+
+https://www.youtube.com/watch?v=suw20wPrbL0

@@ -131,3 +131,7 @@ mysql 工具 SQLyog
 https://www.youtube.com/watch?v=1w_jY8MNvgM
 
 https://www.youtube.com/watch?v=suw20wPrbL0
+
+# video
+
+https://developer.aliyun.com/live/

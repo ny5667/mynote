@@ -135,3 +135,14 @@ https://www.youtube.com/watch?v=suw20wPrbL0
 # video
 
 https://developer.aliyun.com/live/
+
+# 目录设置
+
+E://develop
+存放一些开发软件，maven、仓库、jdk、tomcat等
+
+E://develop/workplace
+存放开发的项目
+
+E://software
+安装软件
